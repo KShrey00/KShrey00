@@ -1,5 +1,29 @@
-# 💫 About Me:
-## 👨‍💻 About Me :<br><br>🛠️ I’m currently working on:  <br>Projects in **Document Image Analysis** and **Medical Image Classification**, leveraging CNNs for segmentation, classification, and text detection on real-world datasets.<br><br>🤝 I’m looking to collaborate on:  <br>Open-source projects in **AI/ML**, **document intelligence**, or **offensive cybersecurity** — particularly where AI meets security.<br><br>🙋‍♂️ I’m looking for help with:  <br>- Optimizing deep learning models for performance  <br>- Fine-tuning and deploying vision/NLP models  <br>- Integrating AI into cybersecurity workflows<br><br>🌱 I’m currently learning:  <br>- **Ethical hacking** (OWASP, network pentesting, exploit development)  <br>- **Red teaming techniques** and adversarial thinking  <br>-**Transformer-based architectures** in NLP  <br>- Advanced **computer vision** and **transformer models**<br><br>💬 Ask me about:  <br>- CTFs and practical security challenges  <br>- Setting up deep learning pipelines in Colab  <br>- Vulnerability research and secure coding practices<br><br>⚡ Fun fact:  <br>I’m fascinated by how AI can be both an attack surface and a defense mechanism in cybersecurity.<br>
+## 👨‍💻 About Me :<br><br>
+
+🛠️ I’m currently working on:  <br>
+Projects in document image analysis and medical image classification, leveraging CNNs for segmentation, classification, and text detection on real-world datasets.<br><br>
+
+🤝 I’m looking to collaborate on:  <br>
+Open-source projects in AI/ML, document intelligence, or offensive cybersecurity — particularly where AI intersects with security.<br><br>
+
+🙋‍♂️ I’m looking for help with:  <br>
+- Optimizing deep learning models for performance  <br>
+- Fine-tuning and deploying vision/NLP models  <br>
+- Integrating AI into cybersecurity workflows<br><br>
+
+🌱 I’m currently learning:  <br>
+- Ethical hacking (OWASP, network pentesting, exploit development)  <br>
+- Red teaming techniques and adversarial thinking  <br>
+- Transformer-based architectures in NLP  <br>
+- Advanced computer vision and secure AI practices<br><br>
+
+💬 Ask me about:  <br>
+- CTFs and practical security challenges  <br>
+- Setting up deep learning pipelines in Colab  <br>
+- Vulnerability research and secure coding practices<br><br>
+
+⚡ Fun fact:  <br>
+I’m fascinated by how AI can be both an attack surface and a defense mechanism in cybersecurity.<br>
 
 
 ## 🌐 Socials:
