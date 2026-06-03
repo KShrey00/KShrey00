@@ -14,7 +14,7 @@ Computer Science Engineering student with a strong interest in Cybersecurity, Vu
 - Linux User
 - Bug Bounty Researcher
 - CTF Participant
-- Based in Ajmer, Rajasthan, India
+- Based in Jaipur, Rajasthan, India
 
 ---
 
