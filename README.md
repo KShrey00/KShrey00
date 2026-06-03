@@ -1,29 +1,212 @@
-## 👨‍💻 About Me :<br><br>
+# Shreya Kumari
 
-🛠️ I’m currently working on:  <br>
-Projects in document image analysis and medical image classification, leveraging CNNs for segmentation, classification, and text detection on real-world datasets.<br><br>
+Cybersecurity Enthusiast | VAPT | Ethical Hacking | Security Research
 
-🤝 I’m looking to collaborate on:  <br>
-Open-source projects in AI/ML, document intelligence, or offensive cybersecurity — particularly where AI intersects with security.<br><br>
+Computer Science Engineering student with a strong interest in Cybersecurity, Vulnerability Assessment & Penetration Testing (VAPT), Ethical Hacking, Web Application Security, and Security Research. Passionate about identifying vulnerabilities, understanding attack methodologies, and improving system security through hands-on learning, penetration testing labs, CTF challenges, and responsible disclosure programs.
 
-🙋‍♂️ I’m looking for help with:  <br>
-- Optimizing deep learning models for performance  <br>
-- Fine-tuning and deploying vision/NLP models  <br>
-- Integrating AI into cybersecurity workflows<br><br>
+---
 
-🌱 I’m currently learning:  <br>
-- Ethical hacking (OWASP, network pentesting, exploit development)  <br>
-- Red teaming techniques and adversarial thinking  <br>
-- Transformer-based architectures in NLP  <br>
-- Advanced computer vision and secure AI practices<br><br>
+## About Me
 
-💬 Ask me about:  <br>
-- CTFs and practical security challenges  <br>
-- Setting up deep learning pipelines in Colab  <br>
-- Vulnerability research and secure coding practices<br><br>
+- B.Tech Computer Science Engineering (2023–2027)
+- Cybersecurity and VAPT Enthusiast
+- Security Research Learner
+- Linux User
+- Bug Bounty Researcher
+- CTF Participant
+- Based in Ajmer, Rajasthan, India
 
-⚡ Fun fact:  <br>
-I’m fascinated by how AI can be both an attack surface and a defense mechanism in cybersecurity.<br>
+---
+
+## Areas of Interest
+
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- Ethical Hacking
+- Web Application Security
+- OWASP Top 10
+- Bug Bounty Hunting
+- Security Testing
+- Threat Analysis
+- Risk Assessment
+- Security Operations (SOC)
+- Incident Response
+- Cyber Defense
+- Threat Hunting
+
+---
+
+## Technical Skills
+
+### Cybersecurity
+
+- Vulnerability Assessment
+- Penetration Testing
+- Web Application Security
+- Ethical Hacking
+- Reconnaissance
+- Enumeration
+- Privilege Escalation
+- Threat Modeling
+- Risk Assessment
+- Bug Bounty Methodology
+
+### Security Tools
+
+- Burp Suite
+- Nmap
+- Gobuster
+- WPScan
+- Wireshark
+- Git
+- GitHub
+- Linux
+
+### Networking
+
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- Service Enumeration
+- Packet Analysis
+
+### Programming
+
+- Python
+- C++
+- SQL
+
+---
+
+## Experience
+
+### Artificial Intelligence Research & Development Lab
+**Summer Intern | June 2025 – Present**
+
+- Working on AI and Deep Learning projects using Python.
+- Contributing to research and development activities.
+- Implementing and evaluating machine learning models.
+- Collaborating on experimentation and technical documentation.
+
+### Corizo
+**Cybersecurity Intern | May 2025 – June 2025**
+
+- Completed hands-on cybersecurity projects.
+- Participated in ethical hacking exercises and security testing.
+- Solved Capture The Flag (CTF) challenges.
+- Gained practical exposure to cybersecurity methodologies and attack techniques.
+
+---
+
+## Featured Projects
+
+### Bug Bounty Responsible Disclosure
+
+Identified and responsibly disclosed a vulnerability in a live web application through OpenBugBounty.
+
+Key Activities:
+
+- Vulnerability discovery and validation
+- Impact assessment
+- Security reporting
+- Remediation recommendations
+
+Technologies:
+
+- Web Application Security
+- VAPT
+- Bug Bounty Methodology
+
+---
+
+### ColddBox Penetration Testing
+
+Conducted a complete penetration testing assessment of a vulnerable WordPress environment.
+
+Key Activities:
+
+- Reconnaissance and service enumeration
+- WordPress security assessment
+- Credential discovery
+- Shell access acquisition
+- Privilege escalation
+- Post-exploitation analysis
+
+Tools Used:
+
+- Nmap
+- Gobuster
+- WPScan
+- Linux
+
+---
+
+### Cybersecurity Risk Management Framework
+
+Designed a cybersecurity risk management framework for a small banking organization.
+
+Key Activities:
+
+- Threat analysis
+- Risk identification and prioritization
+- Security control mapping
+- Mitigation strategy development
+
+Technologies:
+
+- SIEM
+- EDR
+- RBAC
+- WAF
+- MFA
+- Secure SDLC
+- PCI-DSS
+
+---
+
+## Certifications
+
+- Corizo Cybersecurity Internship Certificate
+- Ethical Hacking Certification
+- Unstop Treasure Hunt Challenge Certificate
+- Cybersecurity Workshops and Training Programs
+
+---
+
+## Achievements
+
+- Successfully reported a vulnerability through OpenBugBounty.
+- Participated in multiple CTF competitions.
+- Completed penetration testing and security assessment labs.
+- Created detailed technical security reports and walkthroughs.
+
+---
+
+## Current Focus
+
+- Security Operations Center (SOC)
+- SIEM Technologies
+- Active Directory Security
+- Threat Hunting
+- Incident Response
+- Advanced Web Application Security
+- Security Automation with Python
+
+---
+
+## GitHub Goals
+
+- Publish penetration testing reports
+- Document CTF writeups
+- Build cybersecurity tools using Python
+- Contribute to open-source security projects
+- Expand bug bounty research portfolio
+- Develop blue team and SOC-related projects
+
+---
+
+> Security is not a product, but a process.
+>
+> — Bruce Schneier
 
 
 ## 🌐 Socials:
