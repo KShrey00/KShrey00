@@ -10,7 +10,7 @@ B.Tech Cybersecurity student who builds and breaks things to actually understand
 
 ## 🚀 Featured Project
 
-### [SOC Alert Triage Pipeline](https://github.com/KShrey00/soc-alert-triage-pipeline)
+### [SOC Alert Triage Pipeline](https://github.com/KShrey00/soc-alert-triage)
 An explainable alert triage system that parses **Suricata IDS** alerts, deduplicates network indicators, and enriches them with threat intelligence from a self-hosted **MISP** instance via PyMISP.
 
 - Rules-based, transparent scoring model (severity, MISP match, indicator frequency) that classifies alerts into **Critical / High / Medium / Low** — with human-readable reasoning per score, not a black box
