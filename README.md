@@ -67,7 +67,7 @@ OWASP · PCI-DSS · NIST · CISSP Domains · Secure SDLC
 | 🐞 [bug-bounty-responsible-disclosure](https://github.com/KShrey00/Bug-hunting-project-Report-) | Live web app vulnerability found & responsibly disclosed via OpenBugBounty |
 | 🔌 [tcp-port-scanner](https://github.com/KShrey00/tcp-port-scanner) | Multi-threaded TCP Connect port scanner (Python sockets, threading, queues) |
 | 🔐 [password_generator](https://github.com/KShrey00/password_generator) | Entropy-based password generator & strength/crack-time analyzer |
-| 🦠 virustotal-hash-analyzer | MD5/SHA-1/SHA-256 hashing + VirusTotal API lookups to flag malicious files |
+| 🦠 [virustotal-hash-analyzer](https://github.com/KShrey00/virustotal-hash-analyzer) | MD5/SHA-1/SHA-256 hashing + VirusTotal API lookups to flag malicious files |
 
 ---
 
