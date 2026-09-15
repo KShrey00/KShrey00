@@ -1,224 +1,104 @@
-# Shreya Kumari
+# Hi, I'm Shreya Kumari 👋
 
-Cybersecurity Enthusiast | VAPT | Ethical Hacking | Security Research
+**SOC Analyst | EC-Council Certified SOC Analyst (C|SA) | VAPT & Threat Intelligence**
 
-Computer Science Engineering student with a strong interest in Cybersecurity, Vulnerability Assessment & Penetration Testing (VAPT), Ethical Hacking, Web Application Security, and Security Research. Passionate about identifying vulnerabilities, understanding attack methodologies, and improving system security through hands-on learning, penetration testing labs, CTF challenges, and responsible disclosure programs.
+B.Tech Cybersecurity student who builds and breaks things to actually understand security — not just study it. I work across the full security lifecycle: SOC alert triage, threat intelligence enrichment, penetration testing, and vulnerability assessment.
 
----
-
-## About Me
-
-- B.Tech Computer Science Engineering (2023–2027)
-- Cybersecurity and VAPT Enthusiast
-- Security Research Learner
-- Linux User
-- Bug Bounty Researcher
-- CTF Participant
-- Based in Jaipur, Rajasthan, India
+🔎 Currently looking for **SOC Analyst / Security Operations / VAPT internship & entry-level roles**.
 
 ---
 
-## Areas of Interest
+## 🚀 Featured Project
 
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- Ethical Hacking
-- Web Application Security
-- OWASP Top 10
-- Bug Bounty Hunting
-- Security Testing
-- Threat Analysis
-- Risk Assessment
-- Security Operations (SOC)
-- Incident Response
-- Cyber Defense
-- Threat Hunting
+### [SOC Alert Triage Pipeline](https://github.com/KShrey00/soc-alert-triage-pipeline)
+An explainable alert triage system that parses **Suricata IDS** alerts, deduplicates network indicators, and enriches them with threat intelligence from a self-hosted **MISP** instance via PyMISP.
+
+- Rules-based, transparent scoring model (severity, MISP match, indicator frequency) that classifies alerts into **Critical / High / Medium / Low** — with human-readable reasoning per score, not a black box
+- Processed **136 sample alerts across 30 unique indicators** into a ranked CSV queue (2 Critical, 69 High, 42 Medium, 23 Low)
+- Built a **Streamlit dashboard** for live triage review, with MISP lookup caching per indicator to cut redundant API calls
+- **Stack:** Python, Suricata, MISP, PyMISP, Pandas, Streamlit, Docker Compose, Linux
 
 ---
 
-## Technical Skills
+## 🛡️ About Me
 
-### Cybersecurity
-
-- Vulnerability Assessment
-- Penetration Testing
-- Web Application Security
-- Ethical Hacking
-- Reconnaissance
-- Enumeration
-- Privilege Escalation
-- Threat Modeling
-- Risk Assessment
-- Bug Bounty Methodology
-
-### Security Tools
-
-- Burp Suite
-- Nmap
-- Gobuster
-- WPScan
-- Wireshark
-- Git
-- GitHub
-- Linux
-
-### Networking
-
-- TCP/IP
-- DNS
-- HTTP/HTTPS
-- Service Enumeration
-- Packet Analysis
-
-### Programming
-
-- Python
-- C++
-- SQL
+- 🎓 B.Tech, Computer Science Engineering (2023–2027)
+- 🏅 EC-Council Certified SOC Analyst (C|SA)
+- 🔵 Blue Team: SOC alert triage, threat intel enrichment, log analysis, incident response
+- 🔴 Offensive Security: VAPT, web app pentesting, bug bounty (responsible disclosure via OpenBugBounty)
+- 📍 Based in Jaipur, Rajasthan, India
 
 ---
 
-## Experience
+## 🎯 Areas of Focus
 
-### Artificial Intelligence Research & Development Lab
-**Summer Intern | June 2025 – Present**
-
-- Working on AI and Deep Learning projects using Python.
-- Contributing to research and development activities.
-- Implementing and evaluating machine learning models.
-- Collaborating on experimentation and technical documentation.
-
-### Corizo
-**Cybersecurity Intern | May 2025 – June 2025**
-
-- Completed hands-on cybersecurity projects.
-- Participated in ethical hacking exercises and security testing.
-- Solved Capture The Flag (CTF) challenges.
-- Gained practical exposure to cybersecurity methodologies and attack techniques.
+`SOC Operations` `SIEM & IDS/IPS` `Threat Intelligence` `Incident Response` `VAPT` `Web App Security` `OWASP Top 10` `Bug Bounty` `Threat Modeling` `Risk Assessment` `Security Automation`
 
 ---
 
-## Featured Projects
+## 🧰 Technical Skills
 
-### Bug Bounty Responsible Disclosure
+**SOC & Blue Team**
+Alert Triage · Threat Intelligence Enrichment · Log Analysis · Incident Response · IDS/IPS (Suricata) · MISP · PyMISP
 
-Identified and responsibly disclosed a vulnerability in a live web application through OpenBugBounty.
+**Offensive Security**
+VAPT · Ethical Hacking · Web App Security · OWASP Top 10 · Threat Modeling · Risk Assessment · Privilege Escalation · Bug Bounty
 
-Key Activities:
+**Tools & Platforms**
+Burp Suite · Nmap · Gobuster · WPScan · Wireshark · Streamlit · Docker · Linux · Git
 
-- Vulnerability discovery and validation
-- Impact assessment
-- Security reporting
-- Remediation recommendations
+**Networking**
+TCP/IP · DNS · HTTP/HTTPS · Packet Analysis · Service Enumeration
 
-Technologies:
+**Programming**
+Python · C++ · SQL
 
-- Web Application Security
-- VAPT
-- Bug Bounty Methodology
-
----
-
-### ColddBox Penetration Testing
-
-Conducted a complete penetration testing assessment of a vulnerable WordPress environment.
-
-Key Activities:
-
-- Reconnaissance and service enumeration
-- WordPress security assessment
-- Credential discovery
-- Shell access acquisition
-- Privilege escalation
-- Post-exploitation analysis
-
-Tools Used:
-
-- Nmap
-- Gobuster
-- WPScan
-- Linux
+**Standards & Frameworks**
+OWASP · PCI-DSS · NIST · CISSP Domains · Secure SDLC
 
 ---
 
-### Cybersecurity Risk Management Framework
+## 📌 Pinned Projects
 
-Designed a cybersecurity risk management framework for a small banking organization.
-
-Key Activities:
-
-- Threat analysis
-- Risk identification and prioritization
-- Security control mapping
-- Mitigation strategy development
-
-Technologies:
-
-- SIEM
-- EDR
-- RBAC
-- WAF
-- MFA
-- Secure SDLC
-- PCI-DSS
+| Project | Description |
+|---|---|
+| 🧭 [soc-alert-triage-pipeline](https://github.com/KShrey00/soc-alert-triage-pipeline) | Suricata + MISP alert triage & scoring pipeline with Streamlit dashboard |
+| 🩹 [c0lddBox-Easy-Pentest-Report](https://github.com/KShrey00/c0lddBox-Easy-Pentest-Report) | Full pentest walkthrough of a vulnerable WordPress VM — enumeration to privilege escalation |
+| 🐞 [bug-bounty-responsible-disclosure](https://github.com/KShrey00/Bug-hunting-project-Report-) | Live web app vulnerability found & responsibly disclosed via OpenBugBounty |
+| 🔌 [tcp-port-scanner](https://github.com/KShrey00/tcp-port-scanner) | Multi-threaded TCP Connect port scanner (Python sockets, threading, queues) |
+| 🔐 [password_generator](https://github.com/KShrey00/password_generator) | Entropy-based password generator & strength/crack-time analyzer |
+| 🦠 virustotal-hash-analyzer | MD5/SHA-1/SHA-256 hashing + VirusTotal API lookups to flag malicious files |
 
 ---
 
-## Certifications
+## 💼 Experience
 
-- Corizo Cybersecurity Internship Certificate
-- Ethical Hacking Certification
-- Unstop Treasure Hunt Challenge Certificate
-- Cybersecurity Workshops and Training Programs
-
----
-
-## Achievements
-
-- Successfully reported a vulnerability through OpenBugBounty.
-- Participated in multiple CTF competitions.
-- Completed penetration testing and security assessment labs.
-- Created detailed technical security reports and walkthroughs.
+**Corizo — Cybersecurity Intern** *(May 2025 – Jun 2025)*
+- Completed hands-on VAPT and penetration testing projects aligned with industry frameworks
+- Solved CTF challenges covering reconnaissance, exploitation, privilege escalation, and forensic analysis
 
 ---
 
-## Current Focus
+## 🏆 Certifications
 
-- Security Operations Center (SOC)
-- SIEM Technologies
-- Active Directory Security
-- Threat Hunting
-- Incident Response
-- Advanced Web Application Security
-- Security Automation with Python
+- EC-Council Certified SOC Analyst (C|SA) — EC-Council (2026)
+- Introduction to Cybersecurity — Cisco Networking Academy (2026)
+- Networking Basics — Cisco Networking Academy (2026)
+- Foundations of Cybersecurity — Google, via Coursera (2024)
+- Cybersecurity Internship Certificate, Ethical Hacking — Corizo / NSDC (2024)
 
 ---
 
-## GitHub Goals
+## 📈 GitHub Stats
 
-- Publish penetration testing reports
-- Document CTF writeups
-- Build cybersecurity tools using Python
-- Contribute to open-source security projects
-- Expand bug bounty research portfolio
-- Develop blue team and SOC-related projects
+![Shreya's GitHub stats](https://nirzak-streak-stats.vercel.app/?user=KShrey00&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KShrey00&theme=transparent&hide_border=true&layout=compact)
 
 ---
 
-> Security is not a product, but a process.
->
-> — Bruce Schneier
+## 📫 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-kumari23)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreya.1914.18@gmail.com)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-kumari-788849296) 
-
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=KShrey00&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KShrey00&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KShrey00&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> "Security is not a product, but a process." — Bruce Schneier
